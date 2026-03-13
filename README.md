@@ -4,7 +4,11 @@
 This project is an interactive Power BI dashboard designed to analyze social media user behavior. By examining a dataset of over 1.02 million users, this dashboard uncovers actionable trends regarding demographics, content preferences, and daily app activity. The goal of this analysis is to provide data-driven insights that could guide feature development and targeted marketing strategies.
 
 ## 🛠️ Tools Used
-* **Power BI:** Data visualization, DAX measures, and interactive dashboard design.
+
+* **SQL** – Data extraction and querying
+* **Excel** – Data cleaning and exploratory analysis
+* **Power BI** – Data visualization and dashboard creation
+* **DAX – KPI** calculations and metrics
 
 ## 📈 Dashboard Pages & Features
 
