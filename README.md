@@ -29,8 +29,7 @@ This project is an interactive Power BI dashboard designed to analyze social med
 * **Description:** Analyzes what content keeps users on the platform. It includes a distribution of preferred content themes (Tech, Fitness, Travel, etc.) and uses a treemap to segment the user base by relationship status to help tailor personalized content delivery.
 
 ## 💡 Key Insights
-* *Insight 1:* [e.g., The 18-25 age group shows the highest average engagement score across the platform.]
-* *Insight 2:* [e.g., Users spend the majority of their daily app time consuming Reels compared to the standard Feed.]
-
-## 🚀 Future Enhancements
-* Integrating the raw data pipeline with SQL to automate data extraction, cleaning, and scheduled dashboard refreshes.
+* **The Engagement Paradox:** While the 40-60 age demographic makes up the largest portion of the user base (nearly 400K users), the 60+ age group actually exhibits the highest average engagement score (over 2.0). 
+* **Core Attention Drivers:** Users spend the vast majority of their platform time scrolling the Feed (42.56%) and watching Reels (25.54%). Furthermore, across all age groups, users consistently consume more Reels than Stories.
+* **Feature Adoption & Upsell Potential:** Security adoption is strong, with a clear majority of users enabling Two-Factor Authentication. However, there is a massive opportunity for revenue growth, as over 75% of the 1.02M users do not currently use Premium Features.
+* **A Highly Diversified Audience:** The platform's audience is perfectly split between Male (48.01%) and Female (48.01%) users, predominantly living in Suburban areas (54.97%). Interestingly, their content preferences are almost perfectly balanced across all categories (Tech, Fitness, Travel, Art, etc., all sitting at ~12.5%), suggesting a need for a highly personalized algorithm rather than a platform-wide niche focus.
