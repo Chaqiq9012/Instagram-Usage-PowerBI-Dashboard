@@ -5,7 +5,7 @@ This project is an interactive Power BI dashboard designed to analyze social med
 
 ## 🛠️ Tools Used
 
-* **SQL** – Data extraction and querying
+* **SQL** – Data extraction and querying (The Original Dataset Contains 1.55M Row)
 * **Excel** – Data cleaning and exploratory analysis
 * **Power BI** – Data visualization and dashboard creation
 * **DAX** – KPI calculations and metrics
